@@ -45,7 +45,7 @@ def scheduled_job(client, node_ids):
 
 if __name__ == '__main__':
 
-    server_url = "opc.tcp://10.50.112.214:49320"
+    server_url = "opc.tcp://localhost:49320" # change to your OPC server IP and Port
     node_ids = ["ns=2;s=Channel1.Device1.Tag1",
                 "ns=2;s=Channel1.Device1.Tag2",
                 "ns=2;s=Channel1.Device1.Tag3",
