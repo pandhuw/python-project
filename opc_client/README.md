@@ -9,7 +9,7 @@ With pip (note: the package was ealier called freeopcua)
 
 ## OPC Client
 
-opc_lient.py
+opc_client.py
 
 ## KEPserverEX Configuration
 
