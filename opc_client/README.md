@@ -1,4 +1,4 @@
-# OPC Cilent for KEPeerverEX  
+# OPC Cilent for KEPserverEX  
 Sample code using python and [opcua](https://github.com/FreeOpcUa/python-opcua) library.
 
 ## OPCUA Installation
